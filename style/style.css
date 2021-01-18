@@ -1,0 +1,9 @@
+div.content {
+    padding: 16px;
+    font-family: Canela, sans-serif;
+}
+
+@font-face {
+    font-family: Canela;
+    src: url(/font/Canela-Regular.woff)
+}
