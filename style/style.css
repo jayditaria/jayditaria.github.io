@@ -59,3 +59,11 @@ ul {
   .dropdown:hover .dropdown-content {
     display: block;
   }
+
+  .desc {
+    color: rgb(158, 158, 158);
+    font-size: 16px;
+  }
+  .date {
+    color: rgb(158, 158, 158);
+  }
