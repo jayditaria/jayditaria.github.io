@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "GitHub Pages Publishing Shell Script v1.0. Made by the Ministry of Information and Communications Technology."
+echo "GitHub Pages Publishing Shell Script v1.0. Made by the Ministry for Information and Communications Technology."
 git add .
 echo "Staged changes. Enter your commit message here:"
 read COMMIT
