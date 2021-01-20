@@ -5,7 +5,7 @@ div.content {
 
 @font-face {
     font-family: Canela;
-    src: url(https://jayditaria.github.io/font/Canela-Regular.woff)
+    src: url(https://jayditaria.github.io/font/Canela-Regular.woff);
 }
 
 ul {
@@ -67,4 +67,15 @@ ul {
   .date {
     color: rgb(158, 158, 158);
     font-size: 9px;
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #187bcd;
+    color: white;
+    text-align: center;
+    font-family: Canela, serif;
   }
