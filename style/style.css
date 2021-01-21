@@ -69,6 +69,10 @@ ul {
     font-size: 9px;
   }
 
+  .header {
+    width: 100%;
+  }
+
   .footer {
     position: fixed;
     left: 0;
