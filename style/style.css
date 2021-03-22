@@ -1,11 +1,13 @@
 div.content {
     padding:0 16px;
-    font-family: Canela, serif;
+    font-family: system, serif;
 }
 
 @font-face {
-    font-family: Canela;
-    src: url(https://jayditaria.github.io/font/Canela-Regular.woff);
+  font-family: system;
+  font-style: normal;
+  font-weight: 300;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
 }
 
 ul {
@@ -14,7 +16,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #187bcd;
-    font-family: Canela, serif;
+    font-family: system, serif;
   }
   
   li {
@@ -81,5 +83,5 @@ ul {
     background-color: #187bcd;
     color: white;
     text-align: center;
-    font-family: Canela, serif;
+    font-family: system, serif;
   }
